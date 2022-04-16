@@ -1,2 +1,2 @@
-# dynamicdeterrece
-Matlab and Python Code for "A Dynamic Theory of Deterrence"
+# Replication Materials for "A Dynamic Theory of Deterrence"
+Matlab and Python Code for 
