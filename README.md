@@ -1,4 +1,4 @@
-# Replication Materials for ["A Dynamic Theory of Deterrence and Compliance"](https://github.com/cliffbekar/dynamic_deterrence/blob/main/A%20Dynamic%20Theory%20of%20Deterrence%20and%20Compliance.pdf)
+# Replication Materials for [_A Dynamic Theory of Deterrence and Compliance_](https://github.com/cliffbekar/dynamic_deterrence/blob/main/A%20Dynamic%20Theory%20of%20Deterrence%20and%20Compliance.pdf)
 
 Repository contains both Matlab and Python Code that will allow replication of all results and figures.
 
