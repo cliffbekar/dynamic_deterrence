@@ -1,4 +1,4 @@
-# Replication Materials for "A Dynamic Theory of Deterrence"
+# Replication Materials for "A Dynamic Theory of Deterrence and Compliance"
 
 Repository contains both Matlab and Python Code that will allow replication of all results and figures.
 
