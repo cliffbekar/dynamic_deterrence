@@ -4,4 +4,4 @@ Repository contains both Matlab and Python Code that will allow replication of r
 
 Python code written and maintained by [Cliff Bekar](https://sites.google.com/a/lclark.edu/bekar/home).
 
-Matlab code written and maintained by [Ken Carlaw](https://epp.ok.ubc.ca/about/contact/kenneth-carlaw/)
+Matlab code written and maintained by [Ken Carlaw](https://epp.ok.ubc.ca/about/contact/kenneth-carlaw/).
